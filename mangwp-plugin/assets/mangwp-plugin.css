@@ -1,0 +1,13 @@
+div[data-control="number"].variable-focus {
+    border: 1px solid var(--builder-color-accent);
+    border-radius: var(--builder-border-radius);
+    color: var(--builder-color-accent);
+}
+.popup-variable-inner li{
+  cursor:pointer;
+}
+.popup-variable-inner li.selected,.popup-variable-inner li:hover{
+    color: var(--builder-color-accent);
+      border: 1px solid var(--builder-color-accent);
+
+}
