@@ -2,7 +2,7 @@
 /*
 Plugin Name: Mangwp Plugin
 Description: Colection of custom function of mine. Made by love by mangwp.com
-Version: 1.2
+Version: 1.3
 Author: Ivan Nugraha
 Author URI: https://mangwp.com
 */
